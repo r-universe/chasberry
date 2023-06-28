@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "geneRxCluster"]
 	path = geneRxCluster
 	url = https://git.bioconductor.org/packages/geneRxCluster
-	shallow = true
-	registered = true
 [submodule "sonicLength"]
 	path = sonicLength
 	url = https://github.com/cran/sonicLength
-	shallow = true
-	registered = true
